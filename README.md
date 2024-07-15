@@ -1,5 +1,9 @@
 # Ling5801-Project-Public
-Computational Linguistics NLP Movie Project. 
+Movie Review Sentiment Analysis with NLP Model
+
+
+Implemented a Machine Learning (ML)-based Natural Language Processing (NLP) model to perform sentiment analysis on online movie reviews using the Stanford 50k IMDB Movie Review dataset. Initially developed a custom NLP model, then fine-tuned the HuggingFace "Twitter Roberta Base Sentiment" model for efficiency and accuracy in handling colloquial language. Processed data included removal of web elements and handling of contractions and stop words for effective tokenization.
+
 
 
 
