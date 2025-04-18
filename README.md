@@ -1,4 +1,4 @@
-# Ling 5801 Final Project
+# LING 5801 | Final Project
 
 ![University of Minnesota](https://img.shields.io/badge/University-UofMN-maroon?style=for-the-badge&logo=university)
 ![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue?style=for-the-badge&logo=calendar)  
